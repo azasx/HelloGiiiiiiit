@@ -6,5 +6,6 @@ public class Hello {
 		System.out.println("Hello Git!!!");
 		System.out.println("yeah");
 		System.out.println("123456789");
+		System.out.println("大黄天下第一");
 	}
 }
